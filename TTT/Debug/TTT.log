@@ -1,0 +1,17 @@
+﻿Build started 08-Aug-16 11:27:32 AM.
+     1>Project "D:\Libraries\Software Development\TTT\TTT\TTT\TTT.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt TTT.cpp
+         TTT.cpp
+     1>d:\libraries\software development\ttt\ttt\ttt\ttt.cpp(14): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>d:\libraries\software development\ttt\ttt\ttt\ttt.cpp(15): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>d:\libraries\software development\ttt\ttt\ttt\ttt.cpp(58): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\libraries\software development\ttt\ttt\ttt\ttt.cpp(416): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Libraries\Software Development\TTT\TTT\Debug\TTT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Libraries\Software Development\TTT\TTT\Debug\TTT.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Libraries\Software Development\TTT\TTT\Debug\TTT.lib" /MACHINE:X86 Debug\TTT.obj
+         TTT.vcxproj -> D:\Libraries\Software Development\TTT\TTT\Debug\TTT.exe
+     1>Done Building Project "D:\Libraries\Software Development\TTT\TTT\TTT\TTT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.98
